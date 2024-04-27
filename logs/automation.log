@@ -1,0 +1,99 @@
+2024-04-27T10:35:16,293 [Test worker] INFO  (RequestTest.java:24) - Configuracion iniciada
+2024-04-27T10:35:16,293 [Test worker] INFO  (RequestTest.java:25) - Configuracion finalizada
+2024-04-27T10:38:19,257 [Test worker] INFO  (RequestTest.java:24) - Configuracion iniciada
+2024-04-27T10:38:19,257 [Test worker] INFO  (RequestTest.java:25) - Configuracion finalizada
+2024-04-27T10:39:36,474 [Test worker] INFO  (RequestTest.java:24) - Configuracion iniciada
+2024-04-27T10:39:36,484 [Test worker] INFO  (RequestTest.java:25) - Configuracion finalizada
+2024-04-27T11:16:32,720 [Test worker] INFO  (RequestTest.java:24) - Configuracion iniciada
+2024-04-27T11:16:32,736 [Test worker] INFO  (RequestTest.java:25) - Configuracion finalizada
+2024-04-27T11:21:36,329 [Test worker] INFO  (RequestTest.java:24) - Configuracion iniciada
+2024-04-27T11:21:36,344 [Test worker] INFO  (RequestTest.java:25) - Configuracion finalizada
+2024-04-27T11:31:06,172 [Test worker] INFO  (RequestTest.java:24) - Configuracion iniciada
+2024-04-27T11:31:06,189 [Test worker] INFO  (RequestTest.java:25) - Configuracion finalizada
+2024-04-27T11:48:37,626 [Test worker] INFO  (RequestTest.java:24) - Configuracion iniciada
+2024-04-27T11:48:37,626 [Test worker] INFO  (RequestTest.java:25) - Configuracion finalizada
+2024-04-27T11:49:35,735 [Test worker] INFO  (RequestTest.java:24) - Configuracion iniciada
+2024-04-27T11:49:35,735 [Test worker] INFO  (RequestTest.java:25) - Configuracion finalizada
+2024-04-27T12:06:39,740 [Test worker] INFO  (RequestTest.java:24) - Configuracion iniciada
+2024-04-27T12:06:39,749 [Test worker] INFO  (RequestTest.java:25) - Configuracion finalizada
+2024-04-27T12:18:06,840 [Test worker] INFO  (RequestTest.java:24) - Configuracion iniciada
+2024-04-27T12:18:06,856 [Test worker] INFO  (RequestTest.java:25) - Configuracion finalizada
+2024-04-27T12:18:51,845 [Test worker] INFO  (RequestTest.java:24) - Configuracion iniciada
+2024-04-27T12:18:51,845 [Test worker] INFO  (RequestTest.java:25) - Configuracion finalizada
+2024-04-27T12:20:31,227 [Test worker] INFO  (RequestTest.java:24) - Configuracion iniciada
+2024-04-27T12:20:31,237 [Test worker] INFO  (RequestTest.java:25) - Configuracion finalizada
+2024-04-27T12:31:45,197 [Test worker] INFO  (RequestTest.java:24) - Configuracion iniciada
+2024-04-27T12:31:45,205 [Test worker] INFO  (RequestTest.java:25) - Configuracion finalizada
+2024-04-27T12:32:52,347 [Test worker] INFO  (RequestTest.java:24) - Configuracion iniciada
+2024-04-27T12:32:52,362 [Test worker] INFO  (RequestTest.java:25) - Configuracion finalizada
+2024-04-27T12:41:38,954 [Test worker] INFO  (RequestTest.java:24) - Configuracion iniciada
+2024-04-27T12:41:38,970 [Test worker] INFO  (RequestTest.java:25) - Configuracion finalizada
+2024-04-27T12:42:04,709 [Test worker] INFO  (RequestTest.java:24) - Configuracion iniciada
+2024-04-27T12:42:04,725 [Test worker] INFO  (RequestTest.java:25) - Configuracion finalizada
+2024-04-27T12:46:24,856 [Test worker] INFO  (RequestTest.java:25) - Configuracion iniciada
+2024-04-27T12:46:24,856 [Test worker] INFO  (RequestTest.java:26) - Configuracion finalizada
+2024-04-27T12:48:27,339 [Test worker] INFO  (RequestTest.java:25) - Configuracion iniciada
+2024-04-27T12:48:27,344 [Test worker] INFO  (RequestTest.java:26) - Configuracion finalizada
+2024-04-27T12:49:15,872 [Test worker] INFO  (RequestTest.java:25) - Configuracion iniciada
+2024-04-27T12:49:15,872 [Test worker] INFO  (RequestTest.java:26) - Configuracion finalizada
+2024-04-27T12:50:35,855 [Test worker] INFO  (RequestTest.java:25) - Configuracion iniciada
+2024-04-27T12:50:35,871 [Test worker] INFO  (RequestTest.java:26) - Configuracion finalizada
+2024-04-27T13:09:23,990 [Test worker] INFO  (RequestTest.java:25) - Configuracion iniciada
+2024-04-27T13:09:23,990 [Test worker] INFO  (RequestTest.java:26) - Configuracion finalizada
+2024-04-27T13:12:42,331 [Test worker] INFO  (RequestTest.java:27) - Configuracion iniciada
+2024-04-27T13:12:42,337 [Test worker] INFO  (RequestTest.java:28) - Configuracion finalizada
+2024-04-27T13:14:30,825 [Test worker] INFO  (RequestTest.java:28) - Configuracion iniciada
+2024-04-27T13:14:30,825 [Test worker] INFO  (RequestTest.java:29) - Configuracion finalizada
+2024-04-27T13:20:05,777 [Test worker] INFO  (RequestTest.java:28) - Configuracion iniciada
+2024-04-27T13:20:05,777 [Test worker] INFO  (RequestTest.java:29) - Configuracion finalizada
+2024-04-27T13:26:33,063 [Test worker] INFO  (RequestTest.java:28) - Configuracion iniciada
+2024-04-27T13:26:33,063 [Test worker] INFO  (RequestTest.java:29) - Configuracion finalizada
+2024-04-27T13:28:10,683 [Test worker] INFO  (RequestTest.java:28) - Configuracion iniciada
+2024-04-27T13:28:10,699 [Test worker] INFO  (RequestTest.java:29) - Configuracion finalizada
+2024-04-27T13:37:10,520 [Test worker] INFO  (RequestTest.java:28) - Configuracion iniciada
+2024-04-27T13:37:10,520 [Test worker] INFO  (RequestTest.java:29) - Configuracion finalizada
+2024-04-27T13:38:22,586 [Test worker] INFO  (RequestTest.java:28) - Configuracion iniciada
+2024-04-27T13:38:22,586 [Test worker] INFO  (RequestTest.java:29) - Configuracion finalizada
+2024-04-27T13:38:41,665 [Test worker] INFO  (RequestTest.java:28) - Configuracion iniciada
+2024-04-27T13:38:41,665 [Test worker] INFO  (RequestTest.java:29) - Configuracion finalizada
+2024-04-27T13:39:53,812 [Test worker] INFO  (RequestTest.java:28) - Configuracion iniciada
+2024-04-27T13:39:53,825 [Test worker] INFO  (RequestTest.java:29) - Configuracion finalizada
+2024-04-27T13:42:52,827 [Test worker] INFO  (RequestTest.java:28) - Configuracion iniciada
+2024-04-27T13:42:52,827 [Test worker] INFO  (RequestTest.java:29) - Configuracion finalizada
+2024-04-27T13:46:26,529 [Test worker] INFO  (RequestTest.java:28) - Configuracion iniciada
+2024-04-27T13:46:26,539 [Test worker] INFO  (RequestTest.java:29) - Configuracion finalizada
+2024-04-27T13:53:46,212 [Test worker] INFO  (RequestTest.java:28) - Configuracion iniciada
+2024-04-27T13:53:46,212 [Test worker] INFO  (RequestTest.java:29) - Configuracion finalizada
+2024-04-27T14:01:37,107 [Test worker] INFO  (RequestTest.java:28) - Configuracion iniciada
+2024-04-27T14:01:37,122 [Test worker] INFO  (RequestTest.java:29) - Configuracion finalizada
+2024-04-27T14:01:52,156 [Test worker] INFO  (RequestTest.java:28) - Configuracion iniciada
+2024-04-27T14:01:52,156 [Test worker] INFO  (RequestTest.java:29) - Configuracion finalizada
+2024-04-27T14:03:42,929 [Test worker] INFO  (RequestTest.java:26) - Configuracion iniciada
+2024-04-27T14:03:42,929 [Test worker] INFO  (RequestTest.java:27) - Configuracion finalizada
+2024-04-27T14:07:22,320 [Test worker] INFO  (RequestTest.java:25) - Configuracion iniciada
+2024-04-27T14:07:22,320 [Test worker] INFO  (RequestTest.java:26) - Configuracion finalizada
+2024-04-27T16:28:14,758 [Test worker] INFO  (BaseTest.java:34) - Configuracion iniciada.
+2024-04-27T16:28:15,499 [Test worker] INFO  (ApplicationProperties.java:37) - Property file to read application-dev.properties
+2024-04-27T16:29:21,042 [Test worker] INFO  (BaseTest.java:34) - Configuracion iniciada.
+2024-04-27T16:29:21,734 [Test worker] INFO  (ApplicationProperties.java:37) - Property file to read application-dev.properties
+2024-04-27T16:29:57,190 [Test worker] INFO  (BaseTest.java:34) - Configuracion iniciada.
+2024-04-27T16:29:57,928 [Test worker] INFO  (ApplicationProperties.java:37) - Property file to read application-dev.properties
+2024-04-27T16:31:19,343 [Test worker] INFO  (BaseTest.java:34) - Configuracion iniciada.
+2024-04-27T16:31:20,085 [Test worker] INFO  (ApplicationProperties.java:37) - Property file to read application-dev.properties
+2024-04-27T16:33:55,099 [Test worker] INFO  (BaseTest.java:34) - Configuracion iniciada.
+2024-04-27T16:33:55,804 [Test worker] INFO  (ApplicationProperties.java:37) - Property file to read application-dev.properties
+2024-04-27T16:36:00,197 [Test worker] INFO  (BaseTest.java:34) - Configuracion iniciada.
+2024-04-27T16:36:00,904 [Test worker] INFO  (ApplicationProperties.java:37) - Property file to read application-dev.properties
+2024-04-27T16:36:00,983 [Test worker] INFO  (BaseTest.java:36) - Configuration finalizada.
+2024-04-27T16:39:39,584 [Test worker] INFO  (BaseTest.java:34) - Configuracion iniciada.
+2024-04-27T16:39:40,268 [Test worker] INFO  (ApplicationProperties.java:37) - Property file to read application-dev.properties
+2024-04-27T16:39:40,362 [Test worker] INFO  (BaseTest.java:36) - Configuration finalizada.
+2024-04-27T16:42:45,844 [ForkJoinPool-1-worker-1] INFO  (BaseTest.java:34) - Configuracion iniciada.
+2024-04-27T16:42:46,529 [ForkJoinPool-1-worker-1] INFO  (ApplicationProperties.java:37) - Property file to read application-dev.properties
+2024-04-27T16:42:46,607 [ForkJoinPool-1-worker-1] INFO  (BaseTest.java:36) - Configuration finalizada.
+2024-04-27T16:43:43,911 [ForkJoinPool-1-worker-1] INFO  (BaseTest.java:34) - Configuracion iniciada.
+2024-04-27T16:43:44,596 [ForkJoinPool-1-worker-1] INFO  (ApplicationProperties.java:37) - Property file to read application-dev.properties
+2024-04-27T16:43:44,690 [ForkJoinPool-1-worker-1] INFO  (BaseTest.java:36) - Configuracion finalizada.
+2024-04-27T16:48:33,971 [ForkJoinPool-1-worker-1] INFO  (BaseTest.java:34) - Configuracion iniciada.
+2024-04-27T16:48:34,662 [ForkJoinPool-1-worker-1] INFO  (ApplicationProperties.java:37) - Property file to read application-dev.properties
+2024-04-27T16:48:34,750 [ForkJoinPool-1-worker-1] INFO  (BaseTest.java:36) - Configuracion finalizada.
