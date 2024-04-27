@@ -38,7 +38,7 @@ public class RequestTest extends BaseTest {
     @Description("Lista usuario")
     @Step
     @Feature("Obtener registros")
-    public void getSingletUser(){
+    public void getSingleUser(){
         Response response = given()
                 .log()
                 .all()
@@ -53,7 +53,7 @@ public class RequestTest extends BaseTest {
     @Description("Usuario no encontrado")
     @Step
     @Feature("Obtener registros")
-    public void getSingletUserNotFound(){
+    public void getSingleUserNotFound(){
         Response response = given()
                 .log()
                 .all()
